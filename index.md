@@ -4,7 +4,7 @@
 
 ### Dogs mom Taaffy&Blondie 
 
-<img src="https://camo.githubusercontent.com/..." data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="200" height="400" />
+<img src="https://camo.githubusercontent.com/..." data-canonical-src="https://user-images.githubusercontent.com/90234175/135915190-f6f7ba79-de8e-48a6-bb23-5f6f3921ca43.png" width="200" height="400" />
 
 [Assignment 3]()
 
