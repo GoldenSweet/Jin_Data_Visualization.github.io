@@ -14,7 +14,7 @@
 
 [Prepare for the class](https://goldensweet.github.io/prepareforclasswork/)
 
-[Assignment 3]
+[Assignment 3]()
 
-[Code from the class]
+[Code from the class]()
 
