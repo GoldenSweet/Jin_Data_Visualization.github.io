@@ -10,9 +10,11 @@
 <img src="https://user-images.githubusercontent.com/90234175/135917176-009fbc14-92c3-4956-b7da-ce42bfd62892.png" width="500" height="220" />
 </p>
 
-#### Some work for the class
+### Some work for the class
 
 [Prepare for the class](https://goldensweet.github.io/prepareforclasswork/)
 
+[Assignment 3]
 
+[Code from the class]
 
