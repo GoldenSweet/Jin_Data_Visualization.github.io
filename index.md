@@ -1,4 +1,4 @@
-# Welcome to Jintian's Data visualization class Gituub Pages
+# Welcome to Jintian's Data visualization class Github Pages
 
 [editor on GitHub](https://github.com/GoldenSweet/Jin_Data_Visualization.github.io/edit/gh-pages/index.md)
 
