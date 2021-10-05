@@ -12,7 +12,7 @@
 
 #### Some work for the class
 
-[Assignment 3]()
+[Prepare for the class](https://goldensweet.github.io/prepareforclasswork/)
 
 
 
