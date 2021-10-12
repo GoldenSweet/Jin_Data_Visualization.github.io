@@ -1,0 +1,8 @@
+library(ggplot2)
+summary(NIO)
+str(NIO)
+p <- ggplot(data=NIO, aes(x=Date, y=Volume, color="blue"))
+p + geom_line()
+
+q<-ggplot(data=NIO, aes(x=Date, y=Close, color="green"))
+q+geom_line()
