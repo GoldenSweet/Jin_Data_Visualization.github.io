@@ -14,6 +14,6 @@
 
 [Prepare for the class](https://goldensweet.github.io/prepareforclasswork/)
 
-[My data Visualization project]()
+[My data Visualization project](D_V_Perposal.pdf)
 
 
