@@ -14,12 +14,6 @@
 
 [Prepare for the class](https://goldensweet.github.io/prepareforclasswork/)
 
-[Assignment 3]()
+[My data Visualization project]()
 
-[Assignment 4](Excel output.pdf)
 
-[Code from the class]()
-
-[My data Visualization project](https://goldensweet.github.io/githubTest1/)
-
-[link to file](Excel_output.pdf)
