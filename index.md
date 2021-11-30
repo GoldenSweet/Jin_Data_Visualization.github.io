@@ -16,4 +16,5 @@
 
 [My data Visualization project](perposal.pdf)
 
-[My data visualization project](Data_visualization.html)
+[My data visualization project](https://github.com/GoldenSweet/data/blob/fbc61f3bbdf1dcfba4570c21872b3b064e1f0ce3/Data_visualization.html)
+
