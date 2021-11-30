@@ -16,4 +16,4 @@
 
 [My data Visualization project](perposal.pdf)
 
-
+[My data visualization project](file:///Users/jintianwu/Documents/Rstudiowork/knit/Data_visualization.html)
